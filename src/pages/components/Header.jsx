@@ -27,7 +27,7 @@ export default function () {
               className='p-2 h-full w-6 flex-grow flex-shrink rounded-l-md focus:outline-none px-4'
             />
             {/*//* searchIcon */}
-            <span className=' h-10 p-4 '>
+            <span className=' h-12 lg:text-lg p-4 '>
               {' '}
               <HiSearch />{' '}
             </span>
